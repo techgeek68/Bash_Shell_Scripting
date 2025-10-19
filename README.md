@@ -26,4 +26,3 @@ How to use
 - Use the `datasets/` snippets (inlined in lessons) or substitute your own CSVs
 
 Author: techgeek68 (course requested by)
-Maintainer: @copilot (generated content)
